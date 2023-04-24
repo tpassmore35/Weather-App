@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px auto;
+}
+h3 {
+  font-size: 12px;
+  position: absolute;
+  top: 60px;
+  right: 1090px;
+}
+h4 {
+  font-size: 12px;
+  position: absolute;
+  top: 60px;
+  left: 1044px;
+}
+p {
+  padding: 20px;
+  margin: 0 auto;
+}
+p:hover {
+  cursor: pointer;
+}
+.card-header {
+  background: cover;
+  text-align: center;
+  padding: 0%;
+  margin: 0px 30px 0px;
+}
+.card-text,
+.card-title {
+  text-align: center;
+}
+.card-body {
+  display: block;
+  background: cover;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-right: 5%;
+  position: relative;
+  bottom: 20px;
+  left: 85px;
+}
